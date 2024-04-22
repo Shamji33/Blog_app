@@ -1,0 +1,12 @@
+
+{
+    "posts": [
+      { "id": 1, "title": "CREW", "content": "Geeta Sethi, Jasmine Kohli, and Divya Rana are flight attendants with Kohinoor Airlines, a company on the verge of bankruptcy. ","image" : "https://static.toiimg.com/thumb/imgsize-23456,msid-109490223,width-375,resizemode-4/109490223.jpg" },
+      { "id": 2, "title": "Dwayne Johnson.", "content": "Hollywood is a district in Los Angeles, California. It is very famous around the world as a place .","image" :"https://www.pinkvilla.com/images/2023-10/1696489554_orange-yellow-minimalist-aesthetic-a-day-in-my-life-travel-vlog-youtube-thumbnail-7.jpg" },
+      { "id": 3, "title": "Shubman Gill ", "content": "Shubhman Gill is famous for his elegant batting style and hitting abilities. He is one of the best top-order batters for India","image":"https://imgeng.jagran.com/images/2024/04/05/article/image/Gill-1712291954193.jpg" },
+      { "id": 1, "title": "CREW", "content": "Geeta Sethi, Jasmine Kohli, and Divya Rana are flight attendants with Kohinoor Airlines, a company on the verge of bankruptcy. ","image" : "https://static.toiimg.com/thumb/imgsize-23456,msid-109490223,width-375,resizemode-4/109490223.jpg" },
+      { "id": 2, "title": "Dwayne Johnson.", "content": "Hollywood is a district in Los Angeles, California. It is very famous around the world as a place .","image" :"https://www.pinkvilla.com/images/2023-10/1696489554_orange-yellow-minimalist-aesthetic-a-day-in-my-life-travel-vlog-youtube-thumbnail-7.jpg" },
+      { "id": 3, "title": "Shubman Gill ", "content": "Shubhman Gill is famous for his elegant batting style and hitting abilities. He is one of the best top-order batters for India","image":"https://imgeng.jagran.com/images/2024/04/05/article/image/Gill-1712291954193.jpg" }
+    ]
+  }
+  
